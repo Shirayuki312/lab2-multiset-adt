@@ -60,24 +60,24 @@ in the instructions below.
 Choose one member of your team to make a fork of
 https://github.com/CSC207-2025F-UofT/lab2-multiset-adt.
 
-- [ ] The repository owner can then add the other members as collaborators of this repository
+- [X] The repository owner can then add the other members as collaborators of this repository
   so that everyone has access to it. This is so that your team has a shared remote repo to which
   your group can all contribute.
 
 ---
 
-- [ ] Get a local copy of this remote repo.
+- [X] Get a local copy of this remote repo.
   You can do this by either method from last week: git clone <url>
   or creating a new project from version control in IntelliJ.
 
 ---
 
-- [ ] Take the time to skim the rest of the instructions to get a better sense of what you'll be doing
+- [X] Take the time to skim the rest of the instructions to get a better sense of what you'll be doing
   in this activity. If you have any immediate questions, raise these with your group or ask your TA.
 
 ---
 
-- [ ] As a team, explore the Python code base and identify specific pieces of code that will need to
+- [X] As a team, explore the Python code base and identify specific pieces of code that will need to
   be completed. You can also look at what parts we have already provided in the starter code.
   (See the general strategies and advice further below, ask other groups, or ask your TA for advice as needed.)
     - The later "Initial Advice" section highlights a few aspects of the code that your team should think
@@ -85,12 +85,12 @@ https://github.com/CSC207-2025F-UofT/lab2-multiset-adt.
 
 ---
 
-- [ ] Based on your group discussion, your team should create GitHub Issues listing the tasks your team
+- [X] Based on your group discussion, your team should create GitHub Issues listing the tasks your team
   needs to complete.
 
 ---
 
-- [ ] Once your team has this set of Issues, each member should be assigned an Issue to start working on.
+- [X] Once your team has this set of Issues, each member should be assigned an Issue to start working on.
 
 ---
 
